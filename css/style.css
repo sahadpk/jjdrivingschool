@@ -8131,3 +8131,37 @@ body.visible-sidebar{
   margin-left: -60px;
   border-radius: 100%;
 }
+@media only screen and (min-width: 980px) {
+ .logo h4{
+    color: #FF8F1F;
+    margin-left: 80px !important;
+    margin-top: -50px;
+    
+  
+    font-weight: 600;
+    line-height: 30px
+ }
+ .logo img{
+ 
+  margin-top: -25px !important;
+  
+
+}
+
+}
+@media only screen and (min-width: 980px) {
+  .fixed-header .header-upper {
+    position: fixed;
+    top: 0;
+    height: 80px !important;
+    background: #202020;
+    border-bottom-color: rgba(0,0,0,0.15);
+  }
+  .main-menu{
+    margin-top: -25px !important;
+  }
+  .main-header .header-upper .links-box .link {
+    margin-top: -25px !important;
+  }
+  
+ }
