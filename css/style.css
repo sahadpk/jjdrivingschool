@@ -8171,4 +8171,20 @@ body.visible-sidebar{
   }
   
  }
- 
+ .top-left a{
+   color: white !important;
+   justify-content: space-between !important;
+ }
+ /* @media only screen and (min-width: 980px) {
+  .top-right-main{
+      margin-left: 30px;
+      color: white !important;
+  }
+  .top-right-main a{
+    position: relative;
+    float: left;
+    line-height: 34px;
+    color: white !important;
+}
+  
+ } */
