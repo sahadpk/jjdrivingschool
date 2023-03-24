@@ -1,2 +1,3 @@
-<link rel="icon" type="image/png" href="./images/resource/welcome-4.png">
+JJ School of Driving
+<link rel="icon" type="image/png" href="./images/resource/welcomemain.png">
 
